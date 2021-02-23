@@ -1,3 +1,5 @@
+This project is stopped and replaced by the [Stendarr](https://github.com/Cyril-Meyer/Stendarr) project.
+
 # Housecarl
 ESP32-CAM security camera
 
